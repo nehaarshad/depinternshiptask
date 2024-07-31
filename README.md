@@ -1,0 +1,2 @@
+
+I completed four tasks during my internship, with a focus on enhancing my skills in Express, Node.js, and MySQL. Tasks 3 and 4 involved working on the same e-commerce project, where I applied my knowledge to deliver quality results. Additionally, I gained hands-on experience with Docker and Kubernetes, expanding my expertise in full-stack development and DevOps. Through these tasks, I demonstrated my ability to work with various technologies and build efficient solutions. Overall, this experience helped me grow as a developer and prepared me for future challenges.
